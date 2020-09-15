@@ -1,4 +1,4 @@
-# new-repo-test
+# New Repo Test
 
 ## Hi Colin!
 
